@@ -1,0 +1,4 @@
+* text=auto
+# The Tanzil Quran text and metadata must stay byte-for-byte verbatim.
+backend/app/quran_data/** -text
+*.ico binary
