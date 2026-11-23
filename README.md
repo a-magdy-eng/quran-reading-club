@@ -85,7 +85,9 @@ cd frontend; npx vitest run                           # tracker tests
 ## Licence
 
 The application source code is released under the [MIT License](LICENSE).
-Third-party content keeps its own licence; see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+
+The MIT License does **not** cover the Quran text and metadata in `backend/app/quran_data/`. They are the Tanzil Project's work, licensed under CC BY 3.0, and must be redistributed verbatim.
+Other third-party content also keeps its own licence; see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
 ## Quran text licence
 

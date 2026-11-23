@@ -19,9 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
--------------------------------------------------------------------------------
-The MIT License above covers the application source code only. The Quran text
-and metadata in backend/app/quran_data/ are NOT covered by it: they are the
-Tanzil Project's work, licensed under Creative Commons Attribution 3.0, and must
-be redistributed verbatim. See THIRD-PARTY-NOTICES.md.
